@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
                                         style: TextStyle(fontSize: 25)),
                                     const Text('Diego Perez',
                                         style: TextStyle(fontSize: 25)),
-                                    const Text('Nombre 4',
+                                    const Text('Jair Hernandez',
                                         style: TextStyle(fontSize: 25)),
                                   ],
                                 )),
